@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "../assets/lambang_ITS.png";
+import logo from "../assets/logoITS.png";
 import placeholder from "../assets/placeholder.png";
 
 const MainMenu = () => {
