@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import logo from "src/assets/lambang_ITS.png";
-import placeholder from "../assets/placeholder.png";
+import logo from "/../assets/lambang_ITS.png";
+import placeholder from "/../assets/placeholder.png";
 
 const MainMenu = () => {
   const [showContactPopup, setShowContactPopup] = useState(false);
